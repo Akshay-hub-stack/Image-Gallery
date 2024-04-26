@@ -1,2 +1,2 @@
 # Image-Gallery
-Image Gallery Using HTML and CSS 
+Image Gallery Project Using HTML and CSS 
